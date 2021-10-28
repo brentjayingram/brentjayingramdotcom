@@ -1,14 +1,14 @@
 ---
-title: Project Title 4
-subtitle: Optional Project Subtitle
+title: Lilo Debris Finder
+subtitle: Frontend Map for NASA-Space Apps Challenge with Team Lilo Pasadena 
 date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
-thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
-image_alt: A table tennis racket on a pink background
+thumb_image: images/portfolio4.png
+thumb_image_alt: A website with a map
+image: images/portfolio4.png
+image_alt: A website with a map
 seo:
   title: Project Title 4
-  description: This is the project 4 description
+  description: Frontend Map for NASA-Space Apps Challenge with Team Lilo Pasadena 
   extra:
     - name: 'og:type'
       value: website
@@ -17,10 +17,10 @@ seo:
       value: Project Title 4
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: Frontend Map for NASA-Space Apps Challenge with Team Lilo Pasadena 
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/portfolio4.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -28,19 +28,35 @@ seo:
     - name: 'twitter:title'
       value: Project Title 4
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: Frontend Map for NASA-Space Apps Challenge with Team Lilo Pasadena 
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/portfolio4.png
       relativeUrl: true
 template: project
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo eget magna fermentum iaculis eu non diam. Id volutpat lacus laoreet non. Faucibus pulvinar elementum integer enim. Malesuada fames ac turpis egestas integer eget aliquet nibh. Turpis massa sed elementum tempus. Potenti nullam ac tortor vitae purus faucibus. Duis ut diam quam nulla porttitor massa. Ultrices dui sapien eget mi proin sed libero enim. Nibh venenatis cras sed felis eget velit aliquet. Nec ullamcorper sit amet risus nullam. Duis at tellus at urna. Pulvinar elementum integer enim neque. Amet cursus sit amet dictum sit amet justo. Aliquam nulla facilisi cras fermentum odio eu. Cursus in hac habitasse platea dictumst quisque sagittis. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
+I recently completed the 2021 NASA Space Apps Pasadena Hackathon. https://spaceapps-pasadena.netlify.app/
+Participants formed in teams of 2-6 and solve challenges submitted by NASA personnel over a 48-hour period.
 
-Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ornare arcu dui vivamus arcu felis bibendum. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ut sem nulla pharetra diam sit amet nisl suscipit. Fermentum leo vel orci porta. Facilisis volutpat est velit egestas. Et pharetra pharetra massa massa ultricies mi quis. Id aliquet risus feugiat in ante metus dictum at tempor. Magna fermentum iaculis eu non diam phasellus. Tellus cras adipiscing enim eu turpis egestas.
 
->"Designers are meant to be loved, not to be understood." - Margaret Oscar
+My team chose the Leveraging AI/Machine learning for Plastic Marine Debris. https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/details
+Our task was to leverage geospatial technology and apply AI/ML capabilities to monitor, detect and quantify plastic marine debris.
 
-Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
 
-Tortor consequat id porta nibh. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Ante metus dictum at tempor. Consectetur adipiscing elit ut aliquam purus. Mauris in aliquam sem fringilla. Sed adipiscing diam donec adipiscing tristique. Posuere ac ut consequat semper viverra nam libero justo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Molestie nunc non blandit massa enim nec. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Ac turpis egestas integer eget aliquet. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis ipsum suspendisse ultrices gravida dictum fusce. Elit ullamcorper dignissim cras tincidunt lobortis. Non enim praesent elementum facilisis leo vel. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit. Senectus et netus et malesuada fames. Massa sed elementum tempus egestas sed sed.
+I handled the frontend web app while the rest of the team handled the machine learning backend algorithm.
+I used React Leaflet to create a map that could take in the endpoints from the backend and display them on a map.
+Initially I used data from Tesla Superchargers to demonstrate how to use the map and used that data to assist with designing the endpoints that the rest of the team built for the API.
+
+Towards the end of the challenge I ran into an issue where Netlify (the host for the frontend) wouldn't build the project anymore even though locally it was building fine.
+I finally realized that it was treating warnings as actual errors due to a couple React components not being imported correctly.
+I fixed that issue and it started to build online properly.
+
+
+The final result can be seen here: https://lilo-plastic-map.netlify.app/ and our team came in 2nd place for Pasadena and became a Global Nominee! 
+You can find out more about our project here: https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/team-lilo/project
+
+Here's an overview video of our project: https://www.youtube.com/watch?v=qMMHzbr-fyo
+
+
+>“What we do at NASA is inspiring. It's reaching, it's visionary, and it inspires people on Earth to try hard things.” ― John M. Grunsfeld
+

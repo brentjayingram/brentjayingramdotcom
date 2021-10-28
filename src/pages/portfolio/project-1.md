@@ -37,6 +37,6 @@ template: project
 
 You can view a live build of the website here: https://2019-pedro-site.netlify.app/brave-work/
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+>“First, solve the problem. Then, write the code.” – John Johnson
 
 

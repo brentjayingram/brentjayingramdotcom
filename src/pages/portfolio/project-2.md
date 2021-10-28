@@ -37,5 +37,5 @@ template: project
 
 You can view it live here: https://bingr001-movie-search.netlify.app/
 
->"Every great design begins with an even better story." - Lorinda Mamo
+>“ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 

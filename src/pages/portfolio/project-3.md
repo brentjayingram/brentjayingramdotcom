@@ -37,5 +37,5 @@ template: project
 
 You can fiew a live build of this website here: https://pedro2020.netlify.app/
 
->"Design adds value faster than it adds costs." - Joel Spolsky
+>“Make it work, make it right, make it fast.” – Kent Beck
 
