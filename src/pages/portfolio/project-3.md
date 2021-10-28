@@ -1,14 +1,18 @@
 ---
 title: Motivational Speaker website
-subtitle: This responsive website was built for a national speaker and author. It was built completely from scratch using ReactJS and Gatsby. 
+subtitle: >-
+  This responsive website was built for a national speaker and author. It was
+  built completely from scratch using ReactJS and Gatsby.
 date: '2019-04-08'
 thumb_image: images/portfolio3.png
-thumb_image_alt: A yellow retro telephone on a yellow background
+thumb_image_alt: A man in front of yellow background
 image: images/portfolio3.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Motivational Speaker website
-  description: This responsive website was built for a national speaker and author. It was built completely from scratch using ReactJS and Gatsby.
+  description: >-
+    This responsive website was built for a national speaker and author. It was
+    built completely from scratch using ReactJS and Gatsby.
   extra:
     - name: 'og:type'
       value: website
@@ -17,7 +21,9 @@ seo:
       value: Motivational Speaker website
       keyName: property
     - name: 'og:description'
-      value: This responsive website was built for a national speaker and author. It was built completely from scratch using ReactJS and Gatsby.
+      value: >-
+        This responsive website was built for a national speaker and author. It
+        was built completely from scratch using ReactJS and Gatsby.
       keyName: property
     - name: 'og:image'
       value: images/images/portfolio3.png
@@ -28,7 +34,9 @@ seo:
     - name: 'twitter:title'
       value: Motivational Speaker website
     - name: 'twitter:description'
-      value: This responsive website was built for a national speaker and author. It was built completely from scratch using ReactJS and Gatsby.
+      value: >-
+        This responsive website was built for a national speaker and author. It
+        was built completely from scratch using ReactJS and Gatsby.
     - name: 'twitter:image'
       value: images/images/portfolio3.png
       relativeUrl: true
