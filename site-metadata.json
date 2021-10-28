@@ -1,8 +1,8 @@
 {
-    "color_scheme": "light",
-    "accent_color": "pink",
+    "color_scheme": "dark",
+    "accent_color": "green",
     "header": {
-        "title": "Exto",
+        "title": "Brent Ingram",
         "has_nav": true,
         "nav_links": [
             {
