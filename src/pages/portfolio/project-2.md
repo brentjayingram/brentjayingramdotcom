@@ -1,6 +1,8 @@
 ---
 title: Movie Searcher
-subtitle: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
+subtitle: >-
+  This app searches for just about any movie you can think of and displays the
+  movie poster and synopsis. It was built with React and the OMDB API.
 date: '2019-04-30'
 thumb_image: images/portfolio2_thumb.png
 thumb_image_alt: Searching Movies
@@ -8,7 +10,9 @@ image: images/portfolio2.png
 image_alt: Searching Movies
 seo:
   title: Movie Searcher
-  description: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
+  description: >-
+    This app searches for just about any movie you can think of and displays the
+    movie poster and synopsis. It was built with React and the OMDB API.
   extra:
     - name: 'og:type'
       value: website
@@ -17,7 +21,9 @@ seo:
       value: Project Title 2
       keyName: property
     - name: 'og:description'
-      value: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
+      value: >-
+        This app searches for just about any movie you can think of and displays
+        the movie poster and synopsis. It was built with React and the OMDB API.
       keyName: property
     - name: 'og:image'
       value: images/portfolio2.png
@@ -28,7 +34,9 @@ seo:
     - name: 'twitter:title'
       value: Project Title 2
     - name: 'twitter:description'
-      value: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
+      value: >-
+        This app searches for just about any movie you can think of and displays
+        the movie poster and synopsis. It was built with React and the OMDB API.
     - name: 'twitter:image'
       value: images/portfolio2.png
       relativeUrl: true
