@@ -4,7 +4,7 @@ excerpt: >-
   This year I decided to take my programming to a new level. And I'll be
   blogging about what I'm learning.
 date: '2021-04-20'
-thumb_image: images/bigo.png
+thumb_image: images/13.jpg
 image: images/13.jpg
 seo:
   title: What is Big O Notation?
