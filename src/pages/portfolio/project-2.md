@@ -4,7 +4,7 @@ subtitle: >-
   This app searches for just about any movie you can think of and displays the
   movie poster and synopsis. It was built with React and the OMDB API.
 date: '2019-04-30'
-thumb_image: images/portfolio2_thumb.png
+thumb_image: images/portfolio2-38c3d2a3.png
 thumb_image_alt: Searching Movies
 image: images/portfolio2.png
 image_alt: Searching Movies
