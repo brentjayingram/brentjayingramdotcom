@@ -20,11 +20,7 @@
                 "url": "/blog/",
                 "style": "link"
             },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
+           
             {
                 "label": "About",
                 "url": "/about/",
@@ -71,5 +67,6 @@
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "title": "Stackbit Exto Theme",
+    "domain": "https://brentjayingramdotcom-9f2ec.netlify.app"
 }

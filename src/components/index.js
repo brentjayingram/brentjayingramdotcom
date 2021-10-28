@@ -11,7 +11,6 @@ import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
 import SectionPortfolio from './SectionPortfolio';
 import SectionPosts from './SectionPosts';
-import SectionTestimonials from './SectionTestimonials';
 import Layout from './Layout';
 
 export {
@@ -28,7 +27,6 @@ export {
     SectionHero,
     SectionPortfolio,
     SectionPosts,
-    SectionTestimonials,
     Layout
 };
 
@@ -46,6 +44,5 @@ export default {
     SectionHero,
     SectionPortfolio,
     SectionPosts,
-    SectionTestimonials,
     Layout
 };
