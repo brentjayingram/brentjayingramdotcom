@@ -1,14 +1,18 @@
 ---
 title: Brave Work
-subtitle: This website was built with React for a conference that happened early in Jan 2020. It helped people to buy tickets and it was a success!
+subtitle: >-
+  This website was built with React for a conference that happened early in Jan
+  2020. It helped people to buy tickets and it was a success!
 date: '2019-05-10'
 thumb_image: images/portfolio1.png
-thumb_image_alt: 'man typing on laptop'
+thumb_image_alt: man typing on laptop
 image: images/portfolio1.png
-image_alt: 'man typing on laptop'
+image_alt: man typing on laptop
 seo:
   title: Brave Work
-  description: This website was built with React for a conference that happened early in Jan 2020. It helped people to buy tickets and it was a success!
+  description: >-
+    This website was built with React for a conference that happened early in
+    Jan 2020. It helped people to buy tickets and it was a success!
   extra:
     - name: 'og:type'
       value: website
@@ -17,7 +21,9 @@ seo:
       value: Brave Work
       keyName: property
     - name: 'og:description'
-      value: This website was built with React for a conference that happened early in Jan 2020. It helped people to buy tickets and it was a success!
+      value: >-
+        This website was built with React for a conference that happened early
+        in Jan 2020. It helped people to buy tickets and it was a success!
       keyName: property
     - name: 'og:image'
       value: images/portfolio1.png
@@ -28,7 +34,9 @@ seo:
     - name: 'twitter:title'
       value: Brave Work
     - name: 'twitter:description'
-      value: This website was built with React for a conference that happened early in Jan 2020. It helped people to buy tickets and it was a success!
+      value: >-
+        This website was built with React for a conference that happened early
+        in Jan 2020. It helped people to buy tickets and it was a success!
     - name: 'twitter:image'
       value: images/portfolio1.png
       relativeUrl: true
