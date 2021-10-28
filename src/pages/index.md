@@ -5,28 +5,34 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Brent Ingram.'
-    content: |+
-      I'm a programmer who actually CAN fix your computer. 
+    content: >
+      I'm a programmer who actually CAN fix your computer.
 
-      I've been a part of the IT industry for the past 7 years. About 4 years ago I worked in a website development company and that is where I was exposed to the world of building websites, and I caught the bug (and caused a few along the way). 
+
+      I've been a part of the IT industry for the past 7 years. About 4 years
+      ago I worked in a website development company and that is where I was
+      exposed to the world of building websites, and I caught the bug (and
+      caused a few along the way).
+
 
       I specialize in ReactJS.
 
+
+      You can check out my Github profile here:
+      <https://github.com/brentjayingram> 
     actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: 
+    subtitle: null
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  
-  
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: 
+    subtitle: null
     posts_number: 3
     col_number: three
     actions:
