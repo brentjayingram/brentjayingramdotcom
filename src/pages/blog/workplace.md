@@ -1,50 +1,58 @@
 ---
-title: The Elements of Great Workplace Design
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '2019-03-24'
-thumb_image: images/11_thumb.jpg
-thumb_image_alt: A leather notebook and a pen on a wooden working table
-image: images/11.jpg
-image_alt: A leather notebook and a pen on a wooden working table
+title: My Experience with the 2021 NASA Space Apps Hackathon
+excerpt: I recently completed the 2021 NASA Space Apps Pasadena Hackathon.
+date: '2021-10-24'
+thumb_image: images/portfolio4.png
+thumb_image_alt: A website with a map
+image: images/portfolio4.png
+image_alt: A website with a map
 seo:
-  title: The Elements of Great Workplace Design
-  description: >-
-    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-    accumsan sapien blandit
+  title: My Experience with the 2021 NASA Space Apps Hackathon
+  description: I recently completed the 2021 NASA Space Apps Pasadena Hackathon.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Elements of Great Workplace Design
+      value: My Experience with the 2021 NASA Space Apps Hackathon
       keyName: property
     - name: 'og:description'
-      value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+      value: I recently completed the 2021 NASA Space Apps Pasadena Hackathon.
       keyName: property
     - name: 'og:image'
-      value: images/11.jpg
+      value: I recently completed the 2021 NASA Space Apps Pasadena Hackathon.
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Elements of Great Workplace Design
+      value: My Experience with the 2021 NASA Space Apps Hackathon
     - name: 'twitter:description'
-      value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+      value: I recently completed the 2021 NASA Space Apps Pasadena Hackathon.
     - name: 'twitter:image'
-      value: images/11.jpg
+      value: I recently completed the 2021 NASA Space Apps Pasadena Hackathon.
       relativeUrl: true
 template: post
 ---
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+I recently completed the 2021 NASA Space Apps Pasadena Hackathon. https://spaceapps-pasadena.netlify.app/
+Participants formed in teams of 2-6 and solve challenges submitted by NASA personnel over a 48-hour period.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+My team chose the Leveraging AI/Machine learning for Plastic Marine Debris. https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/details
+Our task was to leverage geospatial technology and apply AI/ML capabilities to monitor, detect and quantify plastic marine debris.
+
+
+I handled 90% of the frontend web app while the rest of the team handled the machine learning backend algorithm and API.
+I used React Leaflet to create a map that could take in the endpoints from the backend and display them on a map.
+Initially I used data from Tesla Superchargers to demonstrate how to use the map and used that data to assist with designing the endpoints that the rest of the team built for the API.
+
+Towards the end of the challenge I ran into an issue where Netlify (the host for the frontend) wouldn't build the project anymore even though locally it was building fine.
+I finally realized that it was treating warnings as actual errors due to a couple React components not being imported correctly.
+I fixed that issue and it started to build online properly.
+
+
+The final result can be seen here: https://lilo-plastic-map.netlify.app/ and our team came in **2nd place** for Pasadena and became a Global Nominee! 
+You can find out more about our project here: https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/team-lilo/project
+
+Here's an overview video of our project: https://www.youtube.com/watch?v=qMMHzbr-fyo 

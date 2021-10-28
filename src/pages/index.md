@@ -17,7 +17,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: An optional subtitle of the section
+    subtitle: 
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
@@ -26,7 +26,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    subtitle: 
     posts_number: 3
     col_number: three
     actions:
