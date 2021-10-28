@@ -1,16 +1,20 @@
 ---
 title: My Path to Becoming a Web Developer
 excerpt: >-
-  I am going to be completely honest. My path to becoming a web developer has taken a lot longer than I anticipated. I still deal with a lot of imposter syndrome. 
+  I am going to be completely honest. My path to becoming a web developer has
+  taken a lot longer than I anticipated. I still deal with a lot of imposter
+  syndrome. 
 date: '2020-09-01'
 thumb_image: images/desk1.jpg
 thumb_image_alt: A pile of books on the table
 image: images/desk1.jpg
-image_alt: A pile of books on the table
+image_alt: A monitor on a desk
 seo:
   title: My Path to Becoming a Web Developer
   description: >-
-    I am going to be completely honest. My path to becoming a web developer has taken a lot longer than I anticipated. I still deal with a lot of imposter syndrome. 
+    I am going to be completely honest. My path to becoming a web developer has
+    taken a lot longer than I anticipated. I still deal with a lot of imposter
+    syndrome. 
   extra:
     - name: 'og:type'
       value: article
@@ -20,7 +24,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        I am going to be completely honest. My path to becoming a web developer has taken a lot longer than I anticipated. I still deal with a lot of imposter syndrome. 
+        I am going to be completely honest. My path to becoming a web developer
+        has taken a lot longer than I anticipated. I still deal with a lot of
+        imposter syndrome. 
       keyName: property
     - name: 'og:image'
       value: images/desk1.jpg
@@ -32,7 +38,9 @@ seo:
       value: Why Fonts Matter
     - name: 'twitter:description'
       value: >-
-        I am going to be completely honest. My path to becoming a web developer has taken a lot longer than I anticipated. I still deal with a lot of imposter syndrome. 
+        I am going to be completely honest. My path to becoming a web developer
+        has taken a lot longer than I anticipated. I still deal with a lot of
+        imposter syndrome. 
     - name: 'twitter:image'
       value: images/desk1.jpg
       relativeUrl: true

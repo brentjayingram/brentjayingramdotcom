@@ -20,7 +20,6 @@
                 "url": "/blog/",
                 "style": "link"
             },
-           
             {
                 "label": "About",
                 "url": "/about/",
@@ -34,7 +33,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Brent Ingram. All rights reserved." ,
+        "content": "&copy; Brent Ingram. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
@@ -51,7 +50,6 @@
                 "icon": "instagram",
                 "new_window": true
             },
-           
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/brentjingram",

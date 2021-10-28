@@ -1,13 +1,16 @@
 ---
 title: What is Big O Notation?
 excerpt: >-
-  This year I decided to take my programming to a new level. And I'll be blogging about what I'm learning.
+  This year I decided to take my programming to a new level. And I'll be
+  blogging about what I'm learning.
 date: '2021-04-20'
 thumb_image: images/bigo.png
-image: images/bigo.png
+image: images/13.jpg
 seo:
   title: What is Big O Notation?
-  description: This year I decided to take my programming to a new level. And I'll be blogging about what I'm learning.
+  description: >-
+    This year I decided to take my programming to a new level. And I'll be
+    blogging about what I'm learning.
   extra:
     - name: 'og:type'
       value: article
@@ -16,7 +19,9 @@ seo:
       value: What is Big O Notation?
       keyName: property
     - name: 'og:description'
-      value: This year I decided to take my programming to a new level. And I'll be blogging about what I'm learning.
+      value: >-
+        This year I decided to take my programming to a new level. And I'll be
+        blogging about what I'm learning.
       keyName: property
     - name: 'og:image'
       value: images/bigo.png
@@ -27,7 +32,9 @@ seo:
     - name: 'twitter:title'
       value: What is Big O Notation?
     - name: 'twitter:description'
-      value: This year I decided to take my programming to a new level. And I'll be blogging about what I'm learning.
+      value: >-
+        This year I decided to take my programming to a new level. And I'll be
+        blogging about what I'm learning.
     - name: 'twitter:image'
       value: images/bigo.png
       relativeUrl: true
