@@ -9,6 +9,22 @@ sections:
       I'm a programmer who actually CAN fix your computer. 
 
     actions: []
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
