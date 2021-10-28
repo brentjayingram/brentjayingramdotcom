@@ -32,9 +32,9 @@ export default class SectionForm extends React.Component {
                     {_.map(_.get(section, 'form_fields', null), (field, field_idx) => (
                       <FormField key={field_idx} {...this.props} field={field} />
                     ))}
-                    <div className="form-submit">
+                    {/* <div className="form-submit">
                       <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>
-                    </div>
+                    </div> */}
                   </form>
                 </div>
               </div>
