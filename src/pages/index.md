@@ -34,17 +34,17 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: Brent Ingram
+  description: The preview of my website
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: The preview of my website
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: The preview of my website
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
@@ -53,7 +53,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: The preview of my website
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
