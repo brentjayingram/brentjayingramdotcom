@@ -1,14 +1,14 @@
 ---
-title: Project Title 2
-subtitle: Optional Project Subtitle
+title: Movie Searcher
+subtitle: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
-thumb_image_alt: An orange on a blue background
-image: images/2.jpg
-image_alt: An orange on a blue background
+thumb_image: images/portfolio2.png
+thumb_image_alt: Searching Movies
+image: images/portfolio2.png
+image_alt: Searching Movies
 seo:
-  title: Project Title 2
-  description: This is the project 2 description
+  title: Movie Searcher
+  description: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
   extra:
     - name: 'og:type'
       value: website
@@ -17,10 +17,10 @@ seo:
       value: Project Title 2
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: images/portfolio2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -28,9 +28,9 @@ seo:
     - name: 'twitter:title'
       value: Project Title 2
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: This app searches for just about any movie you can think of and displays the movie poster and synopsis. It was built with React and the OMDB API.
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: images/portfolio2.png
       relativeUrl: true
 template: project
 ---
@@ -39,6 +39,3 @@ Urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat in ante
 
 >"Every great design begins with an even better story." - Lorinda Mamo
 
-Tempor orci eu lobortis elementum nibh. Tincidunt dui ut ornare lectus. Sagittis purus sit amet volutpat consequat mauris nunc. Turpis egestas pretium aenean pharetra. Egestas congue quisque egestas diam. Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc. Elit at imperdiet dui accumsan sit amet nulla. Facilisi nullam vehicula ipsum a. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper.
-
-Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.

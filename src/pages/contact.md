@@ -6,8 +6,8 @@ sections:
     type: section_form
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      fill the contact form below or send me an email at
+      [brent@brentjingram.com](mailto:brent@brentjingram.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -26,9 +26,9 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Hire Me
+          - Hire Me More
+          - Hire Me Even More
       - input_type: textarea
         name: message
         label: Message
