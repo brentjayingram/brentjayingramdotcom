@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Brent Ingram.'
     content: >
-      Hi I'm Brent Ingram.
+      ![](images/reallygreatsite.com.png)Hi I'm Brent Ingram.
 
 
       I'm an IT Engineer, Azure Admin, Web Developer, Marathon Runner, and
@@ -16,16 +16,12 @@ sections:
       You'll find all of the above here.
 
 
-
-
       I've been a part of the IT industry for the past 7 years and that is my
-      9-5. 
+      9-5.
 
 
       I moonlight as a web developer because I simply love making cool things
       with what I have learned.
-
-
 
 
       You can check out my Github profile here:
