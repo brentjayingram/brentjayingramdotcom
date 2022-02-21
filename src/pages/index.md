@@ -6,20 +6,30 @@ sections:
     type: section_hero
     title: 'Hi, I''m Brent Ingram.'
     content: >
-      I'm a programmer who actually CAN fix your computer.
+      Hi I'm Brent Ingram.
 
 
-      I've been a part of the IT industry for the past 7 years. About 4 years
-      ago I worked in a website development company and that is where I was
-      exposed to the world of building websites, and I caught the bug (and
-      caused a few along the way).
+      I'm an IT Engineer, Azure Admin, Web Developer, Marathon Runner, and
+      connoisseur of fine Dad Jokes.
 
 
-      I specialize in ReactJS.
+      You'll find all of the above here.
+
+
+
+
+      I've been a part of the IT industry for the past 7 years and that is my
+      9-5. 
+
+
+      I moonlight as a web developer because I simply love making cool things
+      with what I have learned.
+
+
 
 
       You can check out my Github profile here:
-      <https://github.com/brentjayingram> 
+      <https://github.com/brentjayingram>
     actions: []
   - section_id: latest-projects
     type: section_portfolio
