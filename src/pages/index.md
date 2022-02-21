@@ -9,8 +9,9 @@ sections:
       ![](images/reallygreatsite.com.png)Hi I'm Brent Ingram.
 
 
-      I'm an IT Engineer, Azure Admin, Web Developer, Marathon Runner, and
-      connoisseur of fine Dad Jokes.
+      I'm an IT Engineer, Azure Admin, Web Developer, Marathon Runner (I've ran
+      three full marathons and one ultramarathon (56 miles!), and connoisseur of
+      fine Dad Jokes.
 
 
       You'll find all of the above here.
